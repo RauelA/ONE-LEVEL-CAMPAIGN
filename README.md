@@ -5,10 +5,10 @@
 	The ONE LEVEL CAMPAIGN is a Dungeon Keeper Level, that contains nearly
 	everything the game has to offer. Starting with a small tutorial, the
  level will lead you through adventurous chapters against different types
-	  	        	of enemies, resulting in a epic final.
+	  	of enemies, resulting in a epic final.
 
 	 The level will need the own created text files, which are available
-		      in two possible languages: ENGLISH or GERMAN.
+		in two possible languages: ENGLISH or GERMAN.
 
 	(You can change the language in the FX-Launcher, but make sure, you've
 	added the .dat-files in the 'fxdata'-folder. Don't worry! The original
