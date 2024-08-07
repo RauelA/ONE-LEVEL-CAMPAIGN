@@ -1,6 +1,6 @@
 
-            			   *** ONE LEVEL CAMPAIGN ***
-          			(by Rauel Anders aka 'Floatland Games')
+            		      *** ONE LEVEL CAMPAIGN ***
+          		(by Rauel Anders aka 'Floatland Games')
 
 	The ONE LEVEL CAMPAIGN is a Dungeon Keeper Level, that contains nearly
 	everything the game has to offer. Starting with a small tutorial, the
